@@ -1,0 +1,4 @@
+noticeview
+==========
+
+Based Corona, 
